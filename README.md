@@ -21,7 +21,7 @@ By making tutoring more accessible and effective, this solution aims to:
 
 
 ## Solution: StudyJer
-StudyJer is a mobile-first tutoring platform that connects students to tutors instantly and provides personalized study tools to make learning easier and more accessible. It’s built to support students whenever they face academic struggles — whether it’s a quick question or a full study session.
+StudyJer is a mobile-first tutoring platform that connects students to tutors instantly and provides personalized study tools to make learning easier and more accessible. It’s built to support students whenever they face academic struggles, whether it’s a quick question or a full study session.
 
 With StudyJer, no student has to study alone again.
 
