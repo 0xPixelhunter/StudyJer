@@ -36,6 +36,14 @@ Here’s a preview of the StudyJer prototype built in Figma:
 
 [Figma Prototype Link](https://www.figma.com/proto/rpxVn5yWYt12OFkksYwKhS/CODENECTION---StudyJer?node-id=0-1&t=8rgtv34ay8aFDPbY-1)
 
+## Tech Stack
+- **Design:** Figma  
+- **Frontend:** React, Tailwind CSS, JavaScript  
+- **Backend Services:** Firebase (Realtime Database for WebRTC signaling, Authentication, Hosting)  
+- **Real-Time Communication:** WebRTC for live video tutoring sessions  
+- **Authentication:** Firebase Auth  
+- **Version Control:** Git, GitHub  
+- **Deployment:** Firebase Hosting
 
 ## Our Team: Git Asura
 - IZWAN NURAZFAR BIN MOHD ERWANDI
