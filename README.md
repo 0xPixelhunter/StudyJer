@@ -2,7 +2,7 @@
 
 ## Track and Challenge
 - **Track:** Student Lifestyle  
-- **Challenge:** Tutoring For Students  
+- **Challenge:** Tutoring For Students
 
 
 ## Background
@@ -49,4 +49,6 @@ Here’s a preview of the StudyJer prototype built in Figma:
 - IZWAN NURAZFAR BIN MOHD ERWANDI
 - MUHAMMAD AZFAR DANIAL BIN FREEDOM SHAH
 - DANISH AFNAN BIN AZREZA
-- MUHAMMAD DANISH HAZIM BIN AHMAD 
+- MUHAMMAD DANISH HAZIM BIN AHMAD
+
+[Presentation Video](https://drive.google.com/file/d/1NbxgT1_c6mOn1rnCCRDk8cIGlNQLc6Hd/view?usp=sharing)
